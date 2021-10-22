@@ -1,0 +1,125 @@
+@import url("~leaflet/dist/leaflet.css");
+@import url("~leaflet-draw/dist/leaflet.draw.css");
+
+body,
+#root,
+.leaflet-container {
+    position: relative;
+    height: 100%;
+    width: 100%;
+}
+.leaflet-container a {
+  color: white;
+}
+
+.leaflet-popup-content-wrapper {
+  background-color: rgba(0, 0, 0, 0.7);
+  border-radius: 2px;
+}
+.leaflet-popup-content {
+  margin: 4px;
+  
+}
+.leaflet-popup-tip {
+  background-color: gray;
+}
+.table {
+  margin-bottom: 4px;
+  color: white;
+  font-family: 'Red Ring', sans-serif;
+}
+
+.blue_tooltip {
+    background: #0057fe;
+    margin-top: -11px;
+    margin-left: -20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 7px;
+    padding-left: 7px;
+    color:white;
+    border: 1px solid #0057fe;
+    border-radius: 2px;
+    font-family: 'Red Ring', sans-serif, bold;
+    font-size: 16px;
+    /*border: 2px solid rgb(121, 129, 129)*/
+  }
+  .leaflet-tooltip-left.blue_tooltip::before {
+    background: transparent;
+    border-left-color: #0057fe;
+    margin-left: -3px;
+  }
+  .leaflet-tooltip-right.blue_tooltip::before {
+    border-right-color:#0057fe;
+  }
+
+.red_tooltip {
+    background: #fa0026;
+    margin-top: -11px;
+    margin-left: -20px;
+    
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 7px;
+    padding-left: 7px;
+    color:white;
+    border: 1px solid #fa0026;
+    border-radius: 2px;
+    font-family: 'Red Ring', sans-serif, bold;
+    font-size: 16px;
+    /*border: 2px solid rgb(121, 129, 129)*/
+  }
+  .leaflet-tooltip-right.red_tooltip {
+    margin-top: 0px;
+    margin-left: 16px;
+  }
+  .leaflet-tooltip-left.red_tooltip::before {
+    background: transparent;
+    border-left-color: #fa0026;
+    margin-left: -3px;
+  }
+  .leaflet-tooltip-right.red_tooltip::before {
+    border-right-color:#fa0026;
+  }
+
+  .black_tooltip {
+    background: black;
+    margin-top: -11px;
+    margin-left: -20px;
+    padding-top: 1px;
+    padding-bottom: 1px;
+    padding-right: 7px;
+    padding-left: 7px;
+    color:white;
+    border: 1px solid black;
+    border-radius: 2px;
+    font-family: 'Red Ring', sans-serif, bold;
+    font-size: 16px;
+    /*border: 2px solid rgb(121, 129, 129)*/
+  }
+  .leaflet-tooltip-right.black_tooltip {
+    margin-top: 0px;
+    margin-left: 16px;
+  }
+  .leaflet-tooltip-left.black_tooltip::before {
+    background: transparent;
+    border-left-color: black;
+    margin-left: -3px;
+  }
+  .leaflet-tooltip-right.black_tooltip::before {
+    border-right-color:black;
+  }
+
+  .leaflet-div-icon {
+    background-color: transparent;
+    border: transparent;
+    margin-left: 0px;
+    margin-top: 0px;
+  }
+
+  .leaflet-div-icon-nato {
+    background-color: transparent;
+    border: transparent;
+    margin-left: -25px;
+    margin-top: -80px;
+  }
