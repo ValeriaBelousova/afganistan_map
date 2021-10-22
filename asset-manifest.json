@@ -1,23 +1,24 @@
 {
   "files": {
-    "main.css": "/afganistan_map/static/css/main.8c8b27cf.chunk.css",
-    "main.js": "/afganistan_map/static/js/main.de9014dc.chunk.js",
-    "main.js.map": "/afganistan_map/static/js/main.de9014dc.chunk.js.map",
-    "runtime-main.js": "/afganistan_map/static/js/runtime-main.15114712.js",
-    "runtime-main.js.map": "/afganistan_map/static/js/runtime-main.15114712.js.map",
-    "static/js/2.d0eb047a.chunk.js": "/afganistan_map/static/js/2.d0eb047a.chunk.js",
-    "static/js/2.d0eb047a.chunk.js.map": "/afganistan_map/static/js/2.d0eb047a.chunk.js.map",
-    "static/js/3.a6e4d959.chunk.js": "/afganistan_map/static/js/3.a6e4d959.chunk.js",
-    "static/js/3.a6e4d959.chunk.js.map": "/afganistan_map/static/js/3.a6e4d959.chunk.js.map",
+    "main.css": "/afganistan_map/static/css/main.27470d85.chunk.css",
+    "main.js": "/afganistan_map/static/js/main.ba539f75.chunk.js",
+    "main.js.map": "/afganistan_map/static/js/main.ba539f75.chunk.js.map",
+    "runtime-main.js": "/afganistan_map/static/js/runtime-main.d499136d.js",
+    "runtime-main.js.map": "/afganistan_map/static/js/runtime-main.d499136d.js.map",
+    "static/css/2.89309c73.chunk.css": "/afganistan_map/static/css/2.89309c73.chunk.css",
+    "static/js/2.8a3d46df.chunk.js": "/afganistan_map/static/js/2.8a3d46df.chunk.js",
+    "static/js/2.8a3d46df.chunk.js.map": "/afganistan_map/static/js/2.8a3d46df.chunk.js.map",
     "index.html": "/afganistan_map/index.html",
-    "static/css/main.8c8b27cf.chunk.css.map": "/afganistan_map/static/css/main.8c8b27cf.chunk.css.map",
-    "static/js/2.d0eb047a.chunk.js.LICENSE.txt": "/afganistan_map/static/js/2.d0eb047a.chunk.js.LICENSE.txt",
-    "static/media/logo.6ce24c58.svg": "/afganistan_map/static/media/logo.6ce24c58.svg"
+    "static/css/2.89309c73.chunk.css.map": "/afganistan_map/static/css/2.89309c73.chunk.css.map",
+    "static/css/main.27470d85.chunk.css.map": "/afganistan_map/static/css/main.27470d85.chunk.css.map",
+    "static/js/2.8a3d46df.chunk.js.LICENSE.txt": "/afganistan_map/static/js/2.8a3d46df.chunk.js.LICENSE.txt",
+    "static/media/Map.css": "/afganistan_map/static/media/spritesheet.a4e0eb7a.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.15114712.js",
-    "static/js/2.d0eb047a.chunk.js",
-    "static/css/main.8c8b27cf.chunk.css",
-    "static/js/main.de9014dc.chunk.js"
+    "static/js/runtime-main.d499136d.js",
+    "static/css/2.89309c73.chunk.css",
+    "static/js/2.8a3d46df.chunk.js",
+    "static/css/main.27470d85.chunk.css",
+    "static/js/main.ba539f75.chunk.js"
   ]
 }
