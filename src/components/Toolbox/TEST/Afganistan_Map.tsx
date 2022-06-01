@@ -195,7 +195,8 @@ const AfganistanMap: React.FC = (props: any) => {
                       </Card.Text>
                       <Button
                         variant="dark"
-                        href="https://www.bbc.com/russian/news-57684355"
+                        //href="https://www.bbc.com/russian/news-57684355"
+                        href="https://www.kommersant.ru/doc/4888993"
                         target="_blank"
                       >
                         Читать
