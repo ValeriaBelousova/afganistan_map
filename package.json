@@ -14,7 +14,7 @@
     "@types/react-dom": "^16.9.8",
     "@types/react-leaflet": "^2.5.2",
     "bootstrap": "^4.5.2",
-    "gh-pages": "^3.2.3",
+    "gh-pages": "^4.0.0",
     "leaflet": "^1.7.1",
     "leaflet-draw": "^1.0.4",
     "react": "^17.0.1",
@@ -43,7 +43,7 @@
   },
   "browserslist": [
     ">0.2%",
-   "not dead",
-   "not op_mini all"
- ]
+    "not dead",
+    "not op_mini all"
+  ]
 }
