@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/afganistan_map/static/css/main.75a22fdb.chunk.css",
-    "main.js": "/afganistan_map/static/js/main.a06ec21c.chunk.js",
-    "main.js.map": "/afganistan_map/static/js/main.a06ec21c.chunk.js.map",
+    "main.js": "/afganistan_map/static/js/main.b484c264.chunk.js",
+    "main.js.map": "/afganistan_map/static/js/main.b484c264.chunk.js.map",
     "runtime-main.js": "/afganistan_map/static/js/runtime-main.d499136d.js",
     "runtime-main.js.map": "/afganistan_map/static/js/runtime-main.d499136d.js.map",
     "static/css/2.89309c73.chunk.css": "/afganistan_map/static/css/2.89309c73.chunk.css",
@@ -19,6 +19,6 @@
     "static/css/2.89309c73.chunk.css",
     "static/js/2.8a3d46df.chunk.js",
     "static/css/main.75a22fdb.chunk.css",
-    "static/js/main.a06ec21c.chunk.js"
+    "static/js/main.b484c264.chunk.js"
   ]
 }
