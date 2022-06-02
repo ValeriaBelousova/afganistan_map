@@ -100,7 +100,7 @@ const AfganistanMap: React.FC = (props: any) => {
           /*if (l.visible===true) { */
         }
         let status_date: string = l.status_date;
-        console.log("status_date", status_date);
+        console.log("status_date from props", status_date);
         //console.log(L.Icon.Default.imagePath);
         if (status_date == "neutral") {
           return (
